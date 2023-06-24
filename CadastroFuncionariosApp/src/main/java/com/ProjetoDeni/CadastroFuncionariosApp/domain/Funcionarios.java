@@ -8,7 +8,7 @@ import lombok.Data;
 public class Funcionarios {
 
     private String nome;
-    private int id;
+    private long id;
 
 
 }
